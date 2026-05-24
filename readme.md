@@ -2,6 +2,13 @@ English | [中文](README_zh-CN.md)
 
 ---
 
+> [!NOTE]
+> <a href="https://capslox.com"><img src="https://dl.capslox.com/static/assets/image/logo/capslox-app-logo_v2_128x128@2x.png" alt="Capslox" width="80" align="right"></a>
+> **[Capslox](https://capslox.com) is the cross-platform successor to Capslock+.**
+> Capslock+ enriched the Caps Lock key. Capslox extends that idea across your whole keyboard — drive cursor, text, windows and clipboards from home row, with a default keymap that works out of the box and layered shortcuts you can change per app. Available on macOS and Windows.
+
+---
+
 master branch: v3.0+
 
 v2 branch: v2.x
