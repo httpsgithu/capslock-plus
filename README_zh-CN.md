@@ -2,6 +2,7 @@
 
 ---
 
+> [!TIP]
 > <a href="https://capslox.com/cn/"><img src="https://dl.capslox.com/static/assets/image/logo/capslox-app-logo_v2_128x128@2x.png" alt="Capslox" width="80" align="left"></a>
 > **[Capslox](https://capslox.com/cn/) 是 Capslock+ 的跨平台继任者。**
 > Capslock+ 增强了 Caps Lock 一个键。Capslox 把这个思路扩展到整个键盘 —— 用主键盘区驱动光标、文字、窗口和剪贴板，自带开箱即用的快捷键方案，分层的快捷键还可以按应用切换。支持 macOS 和 Windows。
